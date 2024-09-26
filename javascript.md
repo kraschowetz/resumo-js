@@ -33,7 +33,7 @@ let numero = 0;
 - o javascript não tem tipos de váriaveis
 - em alguns casos se usa var para declarar varáveis, mas é recomendado usar o let
 
-## explicando o código:
+# explicando o código:
 
 ~~~
 function validarLogin() { ...
